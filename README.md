@@ -21,7 +21,7 @@
 
 ### About Me
 
-- 🎓 Pursuing **M.S. in Computer Science** at University of Massachusetts Dartmouth *(May 2026)*
+- 🎓 **M.S. in Computer Science** at University of Massachusetts Dartmouth *(May 2026)*
 - 🏛️ B.Tech in Computer Engineering — LJ University, Ahmedabad, India *(2020–2024)*
 - 📍 Based in Dartmouth, MA — Open to relocation
 - 🤖 Passionate about building **AI-powered full-stack systems** and **autonomous agents**
