@@ -169,7 +169,7 @@ Scalable social media platform with an AI-powered recommendation engine for food
 - 📧 Email: [hvora@umassd.edu](mailto:hvora@umassd.edu)
 - 💼 LinkedIn: [linkedin.com/in/harshvora14](https://www.linkedin.com/in/harshvora14/)
 - 🌐 Portfolio: [dev-harshvora.netlify.app](https://dev-harshvora.netlify.app/)
-- 💻 GitHub: [github.com/harshvora](https://github.com/harshvora)
+- 💻 GitHub: [github.com/harshvora](https://github.com/harsh0641)
 
 ---
 
@@ -335,7 +335,7 @@ Scalable social media platform with an AI-powered recommendation engine for food
 
 | Degree | Institution | Year |
 |---|---|---|
-| M.S. Computer Science | University of Massachusetts Dartmouth | May 2026 |
+| M.S. Computer Science | University of Massachusetts Dartmouth | Aug 2024 - May 2026 |
 | B.Tech Computer Engineering | LJ University, Ahmedabad, India | Aug 2020 – Aug 2024 |
 
 **Relevant Coursework:** Artificial Intelligence (A+) · Advanced Data Mining (B+) · Machine Learning · Algorithms
