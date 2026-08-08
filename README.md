@@ -27,7 +27,7 @@
 - 🤖 Passionate about building **AI-powered full-stack systems** and **autonomous agents**
 - 🔬 Research interests: LLM applications, deepfake detection, browser automation, ATS systems
 - 💼 Currently seeking **Software Engineer / AI Engineer internship opportunities**
-- 🌐 Portfolio: [dev-harshvora.netlify.app](https://dev-harshvora.netlify.app/)
+- 🌐 Portfolio: [dev-harshvora.netlify.app](https://voraharsh.dev/)
 
 ---
 
