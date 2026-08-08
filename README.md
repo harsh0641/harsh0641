@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/harshvora14/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dev-harshvora.netlify.app/" target="_blank">
+  <a href="https://voraharsh.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="mailto:hvora@umassd.edu">
