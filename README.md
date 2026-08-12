@@ -205,7 +205,7 @@ Scalable social media platform with an AI-powered recommendation engine for food
 - 🤖 Passionate about building **AI-powered full-stack systems** and **autonomous agents**
 - 🔬 Research interests: LLM applications, deepfake detection, browser automation, ATS systems
 - 💼 Currently seeking **Software Engineer / AI Engineer internship opportunities**
-- 🌐 Portfolio: [dev-harshvora.netlify.app](https://dev-harshvora.netlify.app/)
+- 🌐 Portfolio: [https://voraharsh.dev](https://voraharsh.dev)
 
 ---
 
@@ -346,7 +346,7 @@ Scalable social media platform with an AI-powered recommendation engine for food
 
 - 📧 Email: [hvora@umassd.edu](mailto:hvora@umassd.edu)
 - 💼 LinkedIn: [linkedin.com/in/harshvora14](https://www.linkedin.com/in/harshvora14/)
-- 🌐 Portfolio: [dev-harshvora.netlify.app](https://dev-harshvora.netlify.app/)
+- 🌐 Portfolio: [https://voraharsh.dev](https://voraharsh.dev)
 - 💻 GitHub: [github.com/harshvora](https://github.com/harshvora)
 
 ---
