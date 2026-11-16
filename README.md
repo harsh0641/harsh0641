@@ -17,7 +17,7 @@ PyTorch, T5, Swin Transformer, LIME
 
 Open Source:
 
-- **[cal.diy](https://github.com/calcom/cal.diy/pull/30378):** Submitted a pull request adding conditional booking questions.
+- **[Cal.diy](https://github.com/calcom/cal.diy/pull/30378):** Submitted a pull request adding conditional booking questions.
 - **[OpenRootDev](https://github.com/OpenRootdev/Lysis):** Joined the community and contribute to Lysis, a beginner-friendly issue ranker. Lysis ranks a repository's open issues by how likely a first-time contributor is to get a PR merged. Because `good first issue` labels are often stale, it learns from issues that first-time contributors actually closed.
 
 Contact:
